@@ -6,7 +6,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{ecaaff8b-9c72-4cc6-b33f-c683c0f534e5}",
+            "id": "{597334ef-b63e-4f44-85a5-764ddbfb8e4a}",
             "lineWidth": 2,
             "name": "Anapa CTA",
             "points": [
@@ -85,7 +85,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{ac3cebbf-4a2a-4824-9048-293e56623f71}",
+            "id": "{950ab749-65c2-4e89-9be5-11d57bcf45b6}",
             "lineWidth": 2,
             "name": "Gelendzik CTA",
             "points": [
@@ -148,7 +148,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{81dc61cc-5632-4d29-b9c4-36dd7772dba5}",
+            "id": "{e0da4d58-af37-408e-95ca-19ea2eb992aa}",
             "lineWidth": 2,
             "name": "Krasnodar TMA West",
             "points": [
@@ -227,7 +227,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{0651c1a2-8a4d-4cf8-9137-cb0da1670433}",
+            "id": "{8cbdcc99-af88-49e1-a823-f9fd95299d8f}",
             "lineWidth": 2,
             "name": "Sochi TMA",
             "points": [
@@ -342,7 +342,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{f7786a2a-42ef-4a7f-a23d-3bb560d0a850}",
+            "id": "{805e6c25-8ccc-464f-9135-f3ad22a943d1}",
             "lineWidth": 2,
             "name": "Mineralnye Vody TMA South",
             "points": [
@@ -413,7 +413,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{2c6c4e55-7f94-4c24-9779-24b54496e0ef}",
+            "id": "{b3aa6083-4d9a-4ffd-ba5b-cf9e4c6f1fd5}",
             "lineWidth": 2,
             "name": "Mineralnye Vody TMA North",
             "points": [
@@ -472,7 +472,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{b0fd72e0-e95b-4a22-a83a-ecdd13f53620}",
+            "id": "{9e26d563-b132-4c9d-9b7a-99d3ad4908b2}",
             "lineWidth": 2,
             "name": "Nalchik CTA",
             "points": [
@@ -527,7 +527,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{77369eed-2c8d-4179-8ee5-f3f6fbdc1cce}",
+            "id": "{f6f612d2-b8c9-4b93-80bc-d83ac286cab0}",
             "lineWidth": 2,
             "name": "Beslan CTA",
             "points": [
@@ -602,7 +602,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{eacc2285-46dc-4998-97ce-3d8838af2704}",
+            "id": "{17781fda-6fe5-40ca-a5bb-7cee1cfb5444}",
             "lineWidth": 2,
             "name": "Sochi CTR",
             "points": [
@@ -725,7 +725,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{79b95230-bd75-457c-9979-43f051c1fff3}",
+            "id": "{473f0fc8-ec3e-4b88-a650-125bd09a1c49}",
             "lineWidth": 2,
             "name": "Krymsk CTR",
             "points": [
@@ -746,8 +746,8 @@
                     "longitude": 37.81327770241509
                 },
                 {
-                    "latitude": 44.87701011384067,
-                    "longitude": 37.770461516129075
+                    "latitude": 44.87868749295613,
+                    "longitude": 37.7678516023808
                 },
                 {
                     "latitude": 44.855924513618994,
@@ -860,7 +860,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{2e45f07b-4bf2-4df7-a0d4-2f8695ae7f83}",
+            "id": "{a8da2c47-8c18-4b64-81e9-ee14db3cf242}",
             "lineWidth": 2,
             "name": "Mineralnye Vody CTR",
             "points": [
@@ -995,7 +995,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{fc89425b-768c-4fde-87bb-c362253e22d7}",
+            "id": "{c0c473cc-97fb-4dc3-aedc-ba983e118ee6}",
             "lineWidth": 2,
             "name": "Beslan CTR",
             "points": [
@@ -1102,8 +1102,8 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{27302a93-97e7-440c-993d-e0600b4638c1}",
-            "lineWidth": 3,
+            "id": "{f85da49e-c9a3-4845-89ef-23d40c16765a}",
+            "lineWidth": 2,
             "name": "Gelendzihik CTR",
             "points": [
                 {
@@ -1205,7 +1205,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{c70adf5f-f2f2-4886-80da-079c678c0222}",
+            "id": "{aafde2a7-00c2-4473-ade0-1a32ff25837f}",
             "lineWidth": 2,
             "name": "Novorossiysk CTR",
             "points": [
@@ -1272,7 +1272,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{48fac333-779c-4f9b-bf68-0920bfefac98}",
+            "id": "{adb43cf7-172f-4b80-906a-e7ea6f5f2ec0}",
             "lineWidth": 2,
             "name": "Krasnodar Pashkovsky CTR",
             "points": [
@@ -1311,7 +1311,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{bfdc38bc-fbe8-49d5-8fb3-60a3cc6e79ee}",
+            "id": "{42984048-bc59-4475-acfb-52f56d634057}",
             "lineWidth": 2,
             "name": "Krasnodar Center CTR",
             "points": [
@@ -1354,7 +1354,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{1a407edd-4ccb-4c84-97b7-1c1b713bfd42}",
+            "id": "{c7066856-1a2c-4296-9b24-516beb1397b7}",
             "lineWidth": 2,
             "name": "Krasnodar TMA East",
             "points": [
@@ -1445,7 +1445,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{d41f4df9-2b11-45dd-9b77-04fbf427f223}",
+            "id": "{f7a367fb-7c7c-4c58-83f4-4565c03379c9}",
             "lineWidth": 2,
             "name": "Krasnodar CTA",
             "points": [
@@ -1484,7 +1484,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{6ec47330-03e4-4cd4-be40-1a19102ae0d4}",
+            "id": "{369d99dd-28b9-4125-8b61-f00530300276}",
             "lineWidth": 2,
             "name": "Sochi CTA",
             "points": [
@@ -1551,7 +1551,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{cd0ae05f-687e-4a7f-9b5b-600ab2e42b92}",
+            "id": "{d86e5c61-f34d-402a-b12e-96e1f8739061}",
             "lineWidth": 2,
             "name": "Mineralnye Vody CTA",
             "points": [
@@ -1598,7 +1598,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{7089b885-1fdd-4cd5-8747-df0e72eea61b}",
+            "id": "{6db17366-76d0-4c37-b916-44b0654ef1bd}",
             "lineWidth": 2,
             "name": "Mozdok CTA",
             "points": [
@@ -1661,7 +1661,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{9345f08f-cc8c-48c7-bccd-0bb1e0a294b5}",
+            "id": "{ce7c8b6c-9269-4710-a92f-39bab77b3c4e}",
             "lineWidth": 2,
             "name": "Anapa CTR",
             "points": [
@@ -1816,7 +1816,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{5c7ef849-7b9c-4cfd-8358-442a3feee309}",
+            "id": "{04354ee3-fa92-4d83-b2be-7cd05cc53756}",
             "lineWidth": 2,
             "name": "Anapa MATZ",
             "points": [
@@ -1935,8 +1935,8 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{efdd8a9c-8c76-401c-b413-976272267631}",
-            "lineWidth": 3,
+            "id": "{cf85cd14-eefa-4021-a257-909e0b7152ac}",
+            "lineWidth": 2,
             "name": "Novorossiysk MATZ",
             "points": [
                 {
@@ -2086,7 +2086,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{1197406b-c3a8-4b06-92ed-d00d62906ba2}",
+            "id": "{de8bb222-895d-4ceb-ab15-90cd0ed7407a}",
             "lineWidth": 2,
             "name": "Gelendzhik MATZ",
             "points": [
@@ -2202,7 +2202,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{48df7d59-ecc4-4cbd-8321-c9c858e40a94}",
+            "id": "{b49085a0-7dde-4eea-827b-d2ef01d7862f}",
             "lineWidth": 2,
             "name": "Krymsk MATZ",
             "points": [
@@ -2321,7 +2321,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{47411cd8-2f83-4943-a0d9-1ba524f993ec}",
+            "id": "{f3aa65ff-f029-476b-80ed-f90d7ed63ca5}",
             "lineWidth": 2,
             "name": "Sochi MATZ",
             "points": [
@@ -2448,7 +2448,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{6b3ed81e-01b5-4553-8034-c68a452ff481}",
+            "id": "{30df6abb-6eea-4a42-8e02-81dc875784ea}",
             "lineWidth": 2,
             "name": "Krasnodar Pashkovsky MATZ",
             "points": [
@@ -2539,7 +2539,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{8799a1f4-cd65-4a4d-a481-9fd671956b8f}",
+            "id": "{a0865ea9-53fc-4130-866c-00ee276ccf8a}",
             "lineWidth": 2,
             "name": "Krasnodar Center MATZ",
             "points": [
@@ -2690,7 +2690,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{64d8c5d3-7f20-4dd5-9cfd-88e97adbcda7}",
+            "id": "{189a3fa2-21c8-4da9-8b5a-5f32e46efa65}",
             "lineWidth": 2,
             "name": "Maykop MATZ",
             "points": [
@@ -2809,7 +2809,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{6473784e-7527-40ad-b256-c9112628722f}",
+            "id": "{d5a34291-b715-4b12-83a8-1625d1bd97a8}",
             "lineWidth": 2,
             "name": "Mineralnye Vody MATZ",
             "points": [
@@ -2928,7 +2928,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{3c39016c-4b7f-42ee-bb12-31ed3ed73928}",
+            "id": "{33a034fa-d1b7-4c48-9ebb-1b3d38fd80af}",
             "lineWidth": 2,
             "name": "Nalchik MATZ",
             "points": [
@@ -3043,7 +3043,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{4440010e-88b4-40fd-b13a-36b3c0b6f416}",
+            "id": "{1d48739d-6670-4356-9336-b0951720ebf3}",
             "lineWidth": 2,
             "name": "Beslan MATZ",
             "points": [
@@ -3162,7 +3162,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{d8060148-d1c6-4c8c-ac3d-14c58256ff39}",
+            "id": "{ad9b7dba-f9fd-4ff5-8698-8efeaa981204}",
             "lineWidth": 2,
             "name": "Mozdok MATZ",
             "points": [
@@ -3269,7 +3269,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{5a2ba96b-cffc-4bcf-b77b-c71657656a56}",
+            "id": "{0a1fea49-519a-4d98-b87d-c21bd63e8045}",
             "lineWidth": 2,
             "name": "Rostov West",
             "points": [
@@ -3420,7 +3420,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{d50e4869-753f-433e-9d95-2cc164694a84}",
+            "id": "{c60eeba2-3a39-4f95-9bbc-7e1fbe00fefb}",
             "lineWidth": 2,
             "name": "Rostov East",
             "points": [
@@ -3627,7 +3627,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{844f45b0-c774-47d8-8d8f-468563195afd}",
+            "id": "{6ffc0dc7-a80b-4039-b420-7cdb9c957766}",
             "lineWidth": 2,
             "name": "Maykop CTR",
             "points": [
@@ -3799,7 +3799,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{0f504ca7-bc90-4cdf-aa67-11edeb56179a}",
+            "id": "{26e55623-57fb-47d6-b807-6f8f6124b52c}",
             "lineWidth": 2,
             "name": "Nalchik CTR",
             "points": [
@@ -3971,7 +3971,7 @@
             "brushStyle": 1,
             "color": "#ff646464",
             "colorBg": "#00ffffff",
-            "id": "{828fce75-c283-40ec-a3f4-c5008b83a181}",
+            "id": "{76a3f17b-3594-4272-97ec-10d775bf8617}",
             "lineWidth": 2,
             "name": "Mozdok CTR",
             "points": [
@@ -4139,11 +4139,11 @@
         }
     ],
     "enable": "true",
-    "id": "{f087cfc7-6340-4679-aaae-58356ab84eb5}",
+    "id": "{91b2ebf5-009d-4232-8e5e-6927d3adc6a9}",
     "name": "URRV_SECTOR",
     "shared": false,
     "timestamp": "",
     "type": "layer",
-    "version": "2.3.4.400",
+    "version": "2.3.5.401",
     "visible": true
 }

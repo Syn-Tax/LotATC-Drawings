@@ -1,0 +1,482 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{0bce3a88-7274-4725-918d-85cd757245c6}",
+            "lineWidth": 2,
+            "name": "Al Ain MATZ",
+            "points": [
+                {
+                    "latitude": 24.44438221467438,
+                    "longitude": 55.59882697489314
+                },
+                {
+                    "latitude": 24.435872639790958,
+                    "longitude": 55.67117621211281
+                },
+                {
+                    "latitude": 24.33249630521932,
+                    "longitude": 55.65636646892534
+                },
+                {
+                    "latitude": 24.321103157496434,
+                    "longitude": 55.67257221249457
+                },
+                {
+                    "latitude": 24.30832612824915,
+                    "longitude": 55.684407867928
+                },
+                {
+                    "latitude": 24.293334985724293,
+                    "longitude": 55.6932694355483
+                },
+                {
+                    "latitude": 24.273860452284303,
+                    "longitude": 55.69939969813774
+                },
+                {
+                    "latitude": 24.25382955110151,
+                    "longitude": 55.70018874181011
+                },
+                {
+                    "latitude": 24.233629452991128,
+                    "longitude": 55.695454479659986
+                },
+                {
+                    "latitude": 24.21519752548674,
+                    "longitude": 55.68531830297715
+                },
+                {
+                    "latitude": 24.19842381444743,
+                    "longitude": 55.66941603771875
+                },
+                {
+                    "latitude": 24.187018644905717,
+                    "longitude": 55.650903858719005
+                },
+                {
+                    "latitude": 24.181149568039075,
+                    "longitude": 55.63463741950474
+                },
+                {
+                    "latitude": 24.078397066111457,
+                    "longitude": 55.62000976304799
+                },
+                {
+                    "latitude": 24.087318477565624,
+                    "longitude": 55.54741774316153
+                },
+                {
+                    "latitude": 24.18978698355949,
+                    "longitude": 55.56210609500212
+                },
+                {
+                    "latitude": 24.20346169545985,
+                    "longitude": 55.54329043766239
+                },
+                {
+                    "latitude": 24.223832634378216,
+                    "longitude": 55.52750956378091
+                },
+                {
+                    "latitude": 24.245307160991292,
+                    "longitude": 55.51949773547781
+                },
+                {
+                    "latitude": 24.269987319692998,
+                    "longitude": 55.51828382211792
+                },
+                {
+                    "latitude": 24.290624220973964,
+                    "longitude": 55.523503649629504
+                },
+                {
+                    "latitude": 24.31175558704833,
+                    "longitude": 55.53667460977016
+                },
+                {
+                    "latitude": 24.326025565301073,
+                    "longitude": 55.551848526972066
+                },
+                {
+                    "latitude": 24.334653144945335,
+                    "longitude": 55.565990617806506
+                },
+                {
+                    "latitude": 24.34112344413104,
+                    "longitude": 55.58383514445231
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#32ffffff",
+            "id": "{05c47abe-b628-4a28-9a3e-81ed54357ad1}",
+            "lineWidth": 2,
+            "name": "Liwa MATZ",
+            "points": [
+                {
+                    "latitude": 23.794003318524382,
+                    "longitude": 53.70077276020655
+                },
+                {
+                    "latitude": 23.743826880871094,
+                    "longitude": 53.65309223690667
+                },
+                {
+                    "latitude": 23.676093363923393,
+                    "longitude": 53.73745367260594
+                },
+                {
+                    "latitude": 23.657687426855404,
+                    "longitude": 53.733272332647886
+                },
+                {
+                    "latitude": 23.637967033022143,
+                    "longitude": 53.73419177344482
+                },
+                {
+                    "latitude": 23.619109769211853,
+                    "longitude": 53.74003774138433
+                },
+                {
+                    "latitude": 23.60306372809677,
+                    "longitude": 53.74971771451186
+                },
+                {
+                    "latitude": 23.585719840701326,
+                    "longitude": 53.76759394743874
+                },
+                {
+                    "latitude": 23.57603745779581,
+                    "longitude": 53.784499049672405
+                },
+                {
+                    "latitude": 23.569248345858732,
+                    "longitude": 53.806148592114
+                },
+                {
+                    "latitude": 23.568055299103985,
+                    "longitude": 53.83266396608218
+                },
+                {
+                    "latitude": 23.575694352451606,
+                    "longitude": 53.862743545241415
+                },
+                {
+                    "latitude": 23.50741310485228,
+                    "longitude": 53.94767591464503
+                },
+                {
+                    "latitude": 23.557538132211505,
+                    "longitude": 53.9957206119586
+                },
+                {
+                    "latitude": 23.62594473215483,
+                    "longitude": 53.910710707665885
+                },
+                {
+                    "latitude": 23.645936686718972,
+                    "longitude": 53.91483017966908
+                },
+                {
+                    "latitude": 23.67226498392586,
+                    "longitude": 53.91189094262498
+                },
+                {
+                    "latitude": 23.691250487964346,
+                    "longitude": 53.90348675081228
+                },
+                {
+                    "latitude": 23.707270296932446,
+                    "longitude": 53.89104845535175
+                },
+                {
+                    "latitude": 23.721596389028605,
+                    "longitude": 53.87227745433856
+                },
+                {
+                    "latitude": 23.731204196629577,
+                    "longitude": 53.84845853480593
+                },
+                {
+                    "latitude": 23.73426122415089,
+                    "longitude": 53.82402482506893
+                },
+                {
+                    "latitude": 23.73163328825085,
+                    "longitude": 53.80136029550346
+                },
+                {
+                    "latitude": 23.726209487615453,
+                    "longitude": 53.785497197608635
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{a58fa961-d2fa-4d19-aa42-99a3cd0e9a08}",
+            "lineWidth": 2,
+            "name": "Emirates FIR",
+            "points": [
+                {
+                    "latitude": 22.628027777777778,
+                    "longitude": 55.13725
+                },
+                {
+                    "latitude": 22.708305555555555,
+                    "longitude": 55.208333333333336
+                },
+                {
+                    "latitude": 23.966666666666665,
+                    "longitude": 55.583333333333336
+                },
+                {
+                    "latitude": 25,
+                    "longitude": 56.58330555555556
+                },
+                {
+                    "latitude": 25.59997222222222,
+                    "longitude": 56.21666666666667
+                },
+                {
+                    "latitude": 26.34997222222222,
+                    "longitude": 56.10002777777778
+                },
+                {
+                    "latitude": 25.633333333333333,
+                    "longitude": 55.333333333333336
+                },
+                {
+                    "latitude": 26.075,
+                    "longitude": 53.958333333333336
+                },
+                {
+                    "latitude": 25.816666666666666,
+                    "longitude": 53.1
+                },
+                {
+                    "latitude": 23.971138888888888,
+                    "longitude": 51.71888888888889
+                },
+                {
+                    "latitude": 22.935833333333335,
+                    "longitude": 52.58111111111111
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{a816d695-5e7e-47c8-be5d-9dd9c3efad60}",
+            "lineWidth": 2,
+            "name": "Al Ain CTA",
+            "points": [
+                {
+                    "latitude": 24.534890329846572,
+                    "longitude": 56.1323680226148
+                },
+                {
+                    "latitude": 24.76586499484877,
+                    "longitude": 56.05308577900732
+                },
+                {
+                    "latitude": 24.785253349339524,
+                    "longitude": 55.60890689512408
+                },
+                {
+                    "latitude": 24.460238071114397,
+                    "longitude": 55.32808493599771
+                },
+                {
+                    "latitude": 23.933043927463952,
+                    "longitude": 55.08419328558281
+                },
+                {
+                    "latitude": 23.585011871444976,
+                    "longitude": 55.46916063808882
+                },
+                {
+                    "latitude": 23.966505340805984,
+                    "longitude": 55.58318748865858
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{5ca46827-3d3f-4505-baef-f448baff1cfe}",
+            "lineWidth": 2,
+            "name": "Liwa CTA",
+            "points": [
+                {
+                    "latitude": 24.110986691163014,
+                    "longitude": 53.97869816726799
+                },
+                {
+                    "latitude": 24.10602432298934,
+                    "longitude": 53.23932302902031
+                },
+                {
+                    "latitude": 23.608821303164852,
+                    "longitude": 53.38067415857083
+                },
+                {
+                    "latitude": 22.986327432834358,
+                    "longitude": 53.99138352489402
+                },
+                {
+                    "latitude": 23.53860018929969,
+                    "longitude": 54.64548929524787
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{486c99cc-d433-4109-9a9b-b612a8bfb8b5}",
+            "lineWidth": 2,
+            "name": "Tehran FIR",
+            "points": [
+                {
+                    "latitude": 26.68327777777778,
+                    "longitude": 56.45
+                },
+                {
+                    "latitude": 26.349948372277527,
+                    "longitude": 56.09981318548461
+                },
+                {
+                    "latitude": 25.63329735448144,
+                    "longitude": 55.33325021024635
+                },
+                {
+                    "latitude": 26.074974543826205,
+                    "longitude": 53.95828162906247
+                },
+                {
+                    "latitude": 26.916666666666668,
+                    "longitude": 51.166666666666664
+                },
+                {
+                    "latitude": 27.179694444444447,
+                    "longitude": 50.82555555555556
+                },
+                {
+                    "latitude": 29,
+                    "longitude": 49.450027777777784
+                },
+                {
+                    "latitude": 29.216638888888887,
+                    "longitude": 49.666694444444445
+                },
+                {
+                    "latitude": 33.92139954230553,
+                    "longitude": 49.961302065723714
+                },
+                {
+                    "latitude": 33.88492321841943,
+                    "longitude": 62.83817115463745
+                },
+                {
+                    "latitude": 24.666666666666664,
+                    "longitude": 61.33330555555556
+                },
+                {
+                    "latitude": 24.999972222222222,
+                    "longitude": 57.5
+                },
+                {
+                    "latitude": 25.583333333333332,
+                    "longitude": 56.75
+                },
+                {
+                    "latitude": 26.166638888888887,
+                    "longitude": 56.75002777777778
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        },
+        {
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#00ff0000",
+            "id": "{8303753b-7e78-4c7f-b095-2f348b191d16}",
+            "lineWidth": 2,
+            "name": "Shiraz CTA",
+            "points": [
+                {
+                    "latitude": 30.20260189324734,
+                    "longitude": 52.55657899627613
+                },
+                {
+                    "latitude": 29.686881755079806,
+                    "longitude": 53.15175353494024
+                },
+                {
+                    "latitude": 29.09760893519384,
+                    "longitude": 53.12808182032404
+                },
+                {
+                    "latitude": 28.976387592307997,
+                    "longitude": 52.187976583114704
+                },
+                {
+                    "latitude": 30.053435636563396,
+                    "longitude": 52.062854663050246
+                }
+            ],
+            "shared": false,
+            "timestamp": "",
+            "type": "polygon",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{fd799d01-f086-44fd-987d-80cef341f6c6}",
+    "name": "Spud's Sector",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.4.400",
+    "visible": true
+}
