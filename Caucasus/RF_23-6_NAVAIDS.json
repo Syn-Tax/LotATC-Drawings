@@ -1,0 +1,181 @@
+{
+    "author": "me",
+    "drawings": [
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{5c3971af-325c-4d50-9796-1a193095aa0b}",
+            "latitude": 41.900724562757425,
+            "lineWidth": 5,
+            "longitude": 41.93769219556174,
+            "name": "HANVR",
+            "shared": false,
+            "text": "HANVR",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{e3aaddc4-e413-4d72-882d-d158bed57637}",
+            "latitude": 42.57629267394594,
+            "lineWidth": 5,
+            "longitude": 42.19649660144259,
+            "name": "ZOOEY",
+            "shared": false,
+            "text": "ZOOEY",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{8353b857-8236-4a8d-8af6-91a1e4cdf4a0}",
+            "latitude": 42.17197713789186,
+            "lineWidth": 5,
+            "longitude": 41.87824483513677,
+            "name": "DREGN",
+            "shared": false,
+            "text": "DREGN",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{41b7a52d-428c-4103-bd2f-a6f87fa6640b}",
+            "latitude": 42.190849871228885,
+            "lineWidth": 5,
+            "longitude": 42.07502353420017,
+            "name": "PINACL",
+            "shared": false,
+            "text": "PINACL",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{71cbf04d-faf1-4d99-b19a-f4e396ed6cb8}",
+            "latitude": 42.32126021298784,
+            "lineWidth": 5,
+            "longitude": 41.933375933904216,
+            "name": "QUAFF",
+            "shared": false,
+            "text": "QUAFF",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{c029c62a-4e07-49c4-9ca5-18a3143a2c30}",
+            "latitude": 42.195492389347685,
+            "lineWidth": 5,
+            "longitude": 41.927458005943464,
+            "name": "YAKKA",
+            "shared": false,
+            "text": "YAKKA",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{ebca0191-ff8e-4fa5-9e6a-7552c483c568}",
+            "latitude": 42.471976425368105,
+            "lineWidth": 5,
+            "longitude": 41.70867593308964,
+            "name": "BIMBO",
+            "shared": false,
+            "text": "BIMBO",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        },
+        {
+            "altitude": null,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#33ff0000",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{a5758206-3e75-48f4-942f-6438786c9d64}",
+            "latitude": 42.085154348867185,
+            "lineWidth": 5,
+            "longitude": 41.64071865964277,
+            "name": "PLONK",
+            "shared": false,
+            "text": "PLONK",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
+        }
+    ],
+    "enable": "true",
+    "id": "{75ad6823-4ed0-4038-bc84-06a4ab7c45ae}",
+    "name": "RF 23-6 NAVAIDS",
+    "shared": false,
+    "timestamp": "",
+    "type": "layer",
+    "version": "2.3.5.401",
+    "visible": true
+}

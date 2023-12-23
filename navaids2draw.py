@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-FIR = "URRV"
+FIR = "UGGG"
 
 con = sqlite3.connect("little_navmap_navigraph.sqlite")
 cur = con.cursor()
