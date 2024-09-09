@@ -2,7 +2,7 @@
     "author": "me",
     "drawings": [
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -11,7 +11,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{1e0caeec-3c53-4fca-ba67-e5c30964b013}",
+            "id": "{fa7eddb0-5808-4bbf-b1e8-13da53d9ad60}",
             "latitude": 41.62777778,
             "lineWidth": 5,
             "longitude": 43.49583333,
@@ -23,7 +23,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -32,7 +32,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{2d00f61a-2747-4705-9145-75fa72d1e911}",
+            "id": "{8261824b-0126-46f6-ab39-05be465c6fa1}",
             "latitude": 41.75777778,
             "lineWidth": 5,
             "longitude": 41.37138889,
@@ -44,7 +44,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -53,7 +53,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{0d8ea6f4-bf1c-4da8-a763-ab80f873f3d5}",
+            "id": "{26e67cf5-dd7c-4829-90a8-0e94ea77020d}",
             "latitude": 42.30611111111111,
             "lineWidth": 5,
             "longitude": 41.640277777777776,
@@ -65,7 +65,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -74,7 +74,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{3c9f6875-9061-4065-bffd-c72919ffdf46}",
+            "id": "{1f3516aa-bbdb-41d8-a516-a6d0b375aee5}",
             "latitude": 41.48333333,
             "lineWidth": 5,
             "longitude": 45.36666667,
@@ -86,7 +86,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -95,7 +95,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{ffea09da-c0a7-4d77-9f12-bbec7f066af0}",
+            "id": "{f7151a43-ba84-4636-9ec6-c2c3414d531b}",
             "latitude": 41.59888889,
             "lineWidth": 5,
             "longitude": 44.48055556,
@@ -107,7 +107,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -116,7 +116,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{952a1720-9cd8-4c40-beaa-b28546e9f536}",
+            "id": "{86578786-8ce2-432a-bbc9-30cd5291b04e}",
             "latitude": 41.35861111,
             "lineWidth": 5,
             "longitude": 45.08333333,
@@ -128,7 +128,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -137,7 +137,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{43ce70a6-b9cb-47c3-aa75-2131077ed083}",
+            "id": "{973af9e1-6c44-4e0e-a845-f5c843929cf7}",
             "latitude": 41.90388889,
             "lineWidth": 5,
             "longitude": 42.84166667,
@@ -149,7 +149,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -158,7 +158,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{fdc86f2b-a2fb-442c-ad27-192d8c6649c2}",
+            "id": "{f8942e10-dccc-4648-8529-5f13dd9fd476}",
             "latitude": 42.58305556,
             "lineWidth": 5,
             "longitude": 43.44861111,
@@ -170,7 +170,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -179,7 +179,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{59366bf9-4184-4293-9498-ba43350a02df}",
+            "id": "{f36896ef-e89b-49a5-908d-d0f357868e5d}",
             "latitude": 41.71527778,
             "lineWidth": 5,
             "longitude": 45.24666667,
@@ -191,7 +191,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -200,7 +200,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{688dfd13-490a-4090-a65c-8c6e9c22e886}",
+            "id": "{6d81dd7a-76fa-4a12-8337-3b6d5c44cd9a}",
             "latitude": 42.32888889,
             "lineWidth": 5,
             "longitude": 44.3425,
@@ -212,7 +212,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -221,7 +221,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{85618dff-d3dd-483f-a6aa-630d64d1344c}",
+            "id": "{72502467-391c-40e2-a894-abe3112cc9e0}",
             "latitude": 41.46388889,
             "lineWidth": 5,
             "longitude": 45.29277778,
@@ -233,7 +233,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -242,7 +242,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{2c7ef52c-7e55-4db1-8591-aac783af8537}",
+            "id": "{cdfcef5e-1e9f-42d5-9908-3f2d41fadb7b}",
             "latitude": 42.00944444444445,
             "lineWidth": 5,
             "longitude": 43.328611111111115,
@@ -254,7 +254,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -263,7 +263,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{0c623f07-a9a0-4122-b8bd-f51165205529}",
+            "id": "{4b5852fa-cee8-4657-bab0-9fe650d952df}",
             "latitude": 42.01666667,
             "lineWidth": 5,
             "longitude": 44.13222222,
@@ -275,7 +275,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -284,7 +284,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{c9ff0b79-f69b-4bef-af4e-b516ff1fdd2b}",
+            "id": "{060abd34-0989-4609-85a8-a6da714c7407}",
             "latitude": 42.16083333,
             "lineWidth": 5,
             "longitude": 41.72166667,
@@ -296,7 +296,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -305,7 +305,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{3155ec8c-f4d6-47a3-a552-cc6fea666559}",
+            "id": "{fc0a042e-8160-47e9-bc9a-40398e8945e5}",
             "latitude": 42.49027778,
             "lineWidth": 5,
             "longitude": 40.14583333,
@@ -317,7 +317,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -326,7 +326,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{0703ae50-4999-42fd-96c1-abdba0ba6c15}",
+            "id": "{b1bac88a-934d-46cb-96c2-112c0d50cdee}",
             "latitude": 41.57194444,
             "lineWidth": 5,
             "longitude": 44.23138889,
@@ -338,7 +338,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -347,7 +347,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{937df183-d23f-432c-b406-951ac1daf998}",
+            "id": "{5ccc5274-8c29-4a0f-9239-ed4579e37d78}",
             "latitude": 41.54444444,
             "lineWidth": 5,
             "longitude": 45.52333333,
@@ -359,7 +359,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -368,7 +368,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{33da89d4-4ff1-4389-8524-461c8745212d}",
+            "id": "{b42bfc83-3724-4f26-a12c-4fa257ecdee5}",
             "latitude": 42.63138889,
             "lineWidth": 5,
             "longitude": 44.18861111,
@@ -380,7 +380,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -389,7 +389,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{4b9e42d5-890a-43c1-a75a-cb13489d800e}",
+            "id": "{c6c3a731-2d6d-4263-908f-1f3c943ced70}",
             "latitude": 42.235,
             "lineWidth": 5,
             "longitude": 43.28055555555555,
@@ -401,7 +401,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -410,7 +410,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{0d8a551a-d919-45ef-ae89-ad1a1480cb4e}",
+            "id": "{7f8ab92d-e5c5-4d4e-950c-c664ad9c5573}",
             "latitude": 42.21497222,
             "lineWidth": 5,
             "longitude": 41.96730556,
@@ -422,7 +422,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -431,7 +431,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{3f721d5b-d3f3-49fe-9fc0-f39dece68935}",
+            "id": "{2f824332-c2dd-4ff3-8f03-bcad82ab728b}",
             "latitude": 41.9675,
             "lineWidth": 5,
             "longitude": 41.80027777777777,
@@ -443,7 +443,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -452,7 +452,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{8e51a8f7-f044-4390-8eba-e978bfce649e}",
+            "id": "{9d401c5e-f401-455a-87a4-7cebdf8662ba}",
             "latitude": 42.119166666666665,
             "lineWidth": 5,
             "longitude": 43.305277777777775,
@@ -464,7 +464,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -473,7 +473,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{98630e94-627a-4d55-baa3-2c488d933d95}",
+            "id": "{8e6d2759-c624-4248-bac8-7b0ad35a7819}",
             "latitude": 41.42805556,
             "lineWidth": 5,
             "longitude": 42.97888889,
@@ -485,7 +485,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -494,7 +494,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{03e5cee9-c12a-47ba-91ea-11b5e6b7ff4b}",
+            "id": "{4fba114c-f91a-4856-a9a6-fe2e5c40405d}",
             "latitude": 41.83333333,
             "lineWidth": 5,
             "longitude": 44.46555556,
@@ -506,7 +506,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -515,7 +515,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{11b3baa8-3c82-497b-b91e-da3ff5217c6a}",
+            "id": "{d8012d57-7606-40ce-ac81-082553cc6d8f}",
             "latitude": 41.72138889,
             "lineWidth": 5,
             "longitude": 42.09444444,
@@ -527,7 +527,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -536,7 +536,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{1aae382a-b103-4e2b-bed8-2f9e9866139d}",
+            "id": "{790c1f3e-b246-41e4-b6ba-846824d5f571}",
             "latitude": 41.79916667,
             "lineWidth": 5,
             "longitude": 40.65638889,
@@ -548,7 +548,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -557,7 +557,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{76e58eb1-4e57-43ae-9107-0aed8f290546}",
+            "id": "{18e1f564-3a18-4e6a-8df9-fbf2e5908837}",
             "latitude": 42.09752778,
             "lineWidth": 5,
             "longitude": 42.06772222,
@@ -569,7 +569,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -578,7 +578,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{210aaa49-41f8-4cdb-bd7b-b766d60a0fc5}",
+            "id": "{0d56b8cf-46b8-456d-994e-279e55bcdd74}",
             "latitude": 42.10972222,
             "lineWidth": 5,
             "longitude": 41.00416667,
@@ -590,7 +590,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -599,7 +599,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{fe15dec7-d1fa-49de-96d9-8c6dfba5b11d}",
+            "id": "{d2002f29-8d72-4c75-82f9-4bb7e31fdc75}",
             "latitude": 42.27833333,
             "lineWidth": 5,
             "longitude": 43.06944444,
@@ -611,7 +611,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -620,7 +620,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{39443628-f880-4531-8fe6-39dd891ca234}",
+            "id": "{cd6e1c38-5e11-492c-94e2-162cba932f59}",
             "latitude": 42.5,
             "lineWidth": 5,
             "longitude": 44.24888889,
@@ -632,7 +632,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -641,7 +641,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{448978aa-07c8-4a50-9a6e-11617b240ac5}",
+            "id": "{f2dfa984-5698-4a5a-8714-72dee54a87a7}",
             "latitude": 41.6725,
             "lineWidth": 5,
             "longitude": 42.85972222,
@@ -662,7 +662,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{bb386fc5-d5b4-4e4c-9df0-650ad73ecd75}",
+            "id": "{cc66ed0c-2d67-4ce3-8709-68266ab6d998}",
             "latitude": 42.17849400398851,
             "lineWidth": 5,
             "longitude": 42.479227737024274,
@@ -683,7 +683,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{4ca51064-b4ba-45c9-9ae4-3a18572ec293}",
+            "id": "{42abdfbe-029c-43de-8479-8f14343beefa}",
             "latitude": 41.67056638721569,
             "lineWidth": 5,
             "longitude": 44.94695594520212,
@@ -695,7 +695,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -704,7 +704,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{8e883a3d-2af4-41f2-ad7f-31019bd3ab89}",
+            "id": "{0b5667f7-6073-4e8a-8f65-ff7aef255a7b}",
             "latitude": 41.91666667,
             "lineWidth": 5,
             "longitude": 44.56555556,
@@ -716,7 +716,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -725,7 +725,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{50808fea-0bd8-4c89-84ba-461281bbb033}",
+            "id": "{8d827763-19b0-40af-95cd-c7a225efc927}",
             "latitude": 42.08972222,
             "lineWidth": 5,
             "longitude": 43.65027778,
@@ -737,7 +737,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -746,7 +746,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{eef3f3d4-969c-483b-8ba4-c7a0ba2ebd21}",
+            "id": "{d330604a-34df-4614-9f17-9ed0aa6f877c}",
             "latitude": 41.60127778,
             "lineWidth": 5,
             "longitude": 41.61413889,
@@ -758,7 +758,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -767,7 +767,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{f0c86eae-d3dc-4450-9241-57f9c6ea2d94}",
+            "id": "{fea022e0-72ea-46bb-ad33-d5b062d92bd7}",
             "latitude": 41.633,
             "lineWidth": 5,
             "longitude": 44.99725,
@@ -779,7 +779,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -788,7 +788,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{bf7dc65c-d18c-4407-ae1a-7447a1cf0e4d}",
+            "id": "{07c6582f-f122-496a-ae47-9bdc8c50fb15}",
             "latitude": 42.990014827147085,
             "lineWidth": 5,
             "longitude": 39.98328469896302,
@@ -800,7 +800,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -809,7 +809,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{76349750-cf51-4943-921a-fa1e6708ec97}",
+            "id": "{0517b484-5a92-4d15-8520-3030582adb97}",
             "latitude": 42.918373703998505,
             "lineWidth": 5,
             "longitude": 43.28502096084293,
@@ -821,7 +821,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -830,7 +830,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{9dabbbe2-76e2-4f75-8444-7dddfde581c6}",
+            "id": "{07388a05-0fd9-4621-a458-a9e5039a1a91}",
             "latitude": 41.655833333333334,
             "lineWidth": 5,
             "longitude": 41.10888888888889,
@@ -842,7 +842,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -851,7 +851,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{080b45d3-7ea3-4258-b10c-4b18fc6c5859}",
+            "id": "{943db4c9-ceff-46cd-bf2c-4b29794e359a}",
             "latitude": 41.54888888888889,
             "lineWidth": 5,
             "longitude": 41.44972222222222,
@@ -863,7 +863,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -872,7 +872,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{cd16734a-97ac-46a3-9b7a-461dffa98db9}",
+            "id": "{76882365-003a-4cc7-90b3-1f2a19c88864}",
             "latitude": 41.952222222222225,
             "lineWidth": 5,
             "longitude": 40.827222222222225,
@@ -884,7 +884,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -893,7 +893,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{30cc7e52-4c5a-43b4-b14c-f96a30416ea1}",
+            "id": "{41f71527-ab6a-4c6c-8b83-670ee26a7277}",
             "latitude": 42.07555555555556,
             "lineWidth": 5,
             "longitude": 41.69555555555555,
@@ -905,7 +905,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -914,7 +914,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{4d4d2efe-987f-4f90-a033-c1e9ab99dbc2}",
+            "id": "{c4d9d1b9-73dd-4b43-802d-aab6d6826c7c}",
             "latitude": 41.88,
             "lineWidth": 5,
             "longitude": 41.934999999999995,
@@ -926,7 +926,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -935,7 +935,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{9cc28f92-185c-4625-b56b-4c68cc0e862e}",
+            "id": "{cfab788f-8389-47eb-b588-5b1df7d65224}",
             "latitude": 42.16166666666666,
             "lineWidth": 5,
             "longitude": 41.697222222222216,
@@ -947,7 +947,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -956,7 +956,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{f05c4ad6-ea28-4fd6-87a1-eedde75aeb6d}",
+            "id": "{e324700d-7e08-4a02-bf2c-0b96f0eb5dc9}",
             "latitude": 41.785,
             "lineWidth": 5,
             "longitude": 44.13638888888889,
@@ -968,7 +968,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -977,7 +977,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{85849ba4-d059-4c04-b15e-66c65869ea8e}",
+            "id": "{c2e4ddca-a665-42ac-ab01-9aa543078ebb}",
             "latitude": 41.47638888888889,
             "lineWidth": 5,
             "longitude": 44.32361111111111,
@@ -989,7 +989,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -998,7 +998,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{bcf8b643-c877-4602-954f-3e7dfdf02933}",
+            "id": "{9b621dd5-1085-4191-9266-b28fb571bbfd}",
             "latitude": 41.13472222222222,
             "lineWidth": 6,
             "longitude": 43.786944444444444,
@@ -1010,7 +1010,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1019,7 +1019,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{d2827a7c-e952-495a-8252-1f710f690413}",
+            "id": "{4a7e9585-8bbe-4ede-af81-06a77e4cd8e5}",
             "latitude": 41.19138888888889,
             "lineWidth": 5,
             "longitude": 44.5025,
@@ -1031,7 +1031,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1040,7 +1040,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{ffac804a-7cf9-4f77-bc06-eb97ec937fdf}",
+            "id": "{a313d00b-4eea-4eb3-9b7d-f5ba600717d6}",
             "latitude": 41.268055555555556,
             "lineWidth": 5,
             "longitude": 44.88583333333333,
@@ -1052,7 +1052,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1061,7 +1061,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{ecb82f9c-7eb4-4b33-9457-4ce1ecde9737}",
+            "id": "{bd287e2c-ca5d-42f3-a915-e6200ff0dcd5}",
             "latitude": 41.61090574846456,
             "lineWidth": 5,
             "longitude": 41.60042015882644,
@@ -1073,7 +1073,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1082,7 +1082,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{25f26896-216c-49f6-b1a0-8b9ffdd5d53b}",
+            "id": "{ff3fc964-ac11-47d3-822f-29ac559d0291}",
             "latitude": 41.93077834405801,
             "lineWidth": 5,
             "longitude": 41.86196797771885,
@@ -1094,7 +1094,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1103,7 +1103,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{993f4416-44fa-42fd-a96a-5803ddfe9aef}",
+            "id": "{388d495b-3098-41d0-a366-0c51f186d09a}",
             "latitude": 42.24209257862701,
             "lineWidth": 5,
             "longitude": 42.04702026912193,
@@ -1115,7 +1115,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1124,7 +1124,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{fc13356b-4da7-46c2-8cad-9dbabc2b1da5}",
+            "id": "{906fe60c-d2ab-45d5-a5ff-4844082d85f7}",
             "latitude": 42.17439375599771,
             "lineWidth": 5,
             "longitude": 42.45527651691441,
@@ -1136,7 +1136,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1145,7 +1145,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{66a7b824-8d30-4e7a-90df-797c841ca415}",
+            "id": "{7ae104bb-a1bf-41dc-9241-0b68e42acb5e}",
             "latitude": 41.67058466660607,
             "lineWidth": 5,
             "longitude": 44.930295657647065,
@@ -1157,7 +1157,7 @@
             "visible": true
         },
         {
-            "altitude": null,
+            "altitude": 0,
             "author": "",
             "brushStyle": 1,
             "color": "#ff646464",
@@ -1166,7 +1166,7 @@
                 "color": "#ff646464",
                 "font": "Lato"
             },
-            "id": "{3224f1b0-d385-475e-a4ac-31b5b880e475}",
+            "id": "{9cb7ce68-cf6f-4866-bb25-fce15693d97c}",
             "latitude": 41.63071643130313,
             "lineWidth": 5,
             "longitude": 45.02734034775315,
@@ -1176,14 +1176,35 @@
             "timestamp": "",
             "type": "point",
             "visible": true
+        },
+        {
+            "altitude": 0,
+            "author": "",
+            "brushStyle": 1,
+            "color": "#ff646464",
+            "colorBg": "#ff646464",
+            "font": {
+                "color": "#ff646464",
+                "font": "Lato"
+            },
+            "id": "{3ff44205-d81f-4330-b5fb-67ce97c6b3d6}",
+            "latitude": 43.35638889,
+            "lineWidth": 5,
+            "longitude": 39.99722222,
+            "name": "ODAGO",
+            "shared": false,
+            "text": "ODAGO",
+            "timestamp": "",
+            "type": "point",
+            "visible": true
         }
     ],
     "enable": "true",
-    "id": "{6e127a93-27ad-43e8-b425-3e9e958004a3}",
+    "id": "{69821238-ff14-4d93-afaa-2071b49dddf3}",
     "name": "UGGG_NAVAIDS",
     "shared": false,
     "timestamp": "",
     "type": "layer",
-    "version": "2.3.5.401",
+    "version": "2.3.6.302",
     "visible": true
 }
